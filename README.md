@@ -54,7 +54,7 @@
 }
 ```
 
-GA 应该可以使用 env 吧？
+GA 应该可以使用 env 吧？ 似乎可行
 
 ## 参考
 * [V2Ray4Heroku](https://github.com/lyz7805/v2ray4heroku)
